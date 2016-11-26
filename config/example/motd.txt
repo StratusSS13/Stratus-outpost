@@ -2,4 +2,4 @@
 
 -<i>This server is running <a href="http://ntdsf13.boards.net/">Stratus'</a> modification of the <a href="http://nanotrasen.se/">Paradise's</a>, <a href="http://baystation12.net/">Baystation 12</a> and <a href="http://ss13.eu/">/tg/station13</a> SS13 code.</i>
 <br><br>
-<strong>GitHub:</strong> <a href="https://github.com/StratusSS13/Stratus">https://github.com/StratusSS13/Stratus</a>
+<strong>GitHub:</strong> <a href="https://github.com/StratusSS13/Stratus/">https://github.com/StratusSS13/Stratus/</a>
