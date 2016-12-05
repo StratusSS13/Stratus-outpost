@@ -204,7 +204,7 @@
 	icon_state = "freedom"
 	item_state = "freedom"
 	allowed = list(/obj/item/weapon/gun,/obj/item/ammo_box,/obj/item/ammo_casing,/obj/item/weapon/melee/baton,/obj/item/weapon/restraints/handcuffs,/obj/item/weapon/tank)
-	armor = list(melee = 40, bullet = 40, laser = 30,energy = 25, bomb = 100, bio = 100, rad = 100)
+	armor = list(melee = 40, bullet = 40, laser = 30, energy = 25, bomb = 100, bio = 100, rad = 100)
 	max_heat_protection_temperature = FIRE_IMMUNITY_HELM_MAX_TEMP_PROTECT
 	unacidable = 1
 	strip_delay = 130
