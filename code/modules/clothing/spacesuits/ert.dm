@@ -4,7 +4,7 @@
 	desc = "A helmet worn by members of the Nanotrasen Emergency Response Team. Armoured and space ready."
 	icon_state = "rig0-ert_commander"
 	item_state = "helm-command"
-	armor = list(melee = 50, bullet = 50, laser = 30,energy = 15, bomb = 30, bio = 100, rad = 60)
+	armor = list(melee = 50, bullet = 50, laser = 30, energy = 15, bomb = 30, bio = 100, rad = 60)
 	rig_restrict_helmet = 0 // ERT helmets can be taken on and off at will.
 	var/obj/machinery/camera/camera
 	strip_delay = 130
